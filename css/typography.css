@@ -5,34 +5,47 @@ body {
 .nav-title {
   font-weight: 700;
   font-size: 24px;
+  color: white;
 }
 
 .button-text {
   font-size: 14px;
   font-weight: 700;
+  color: white;
+}
+
+.button-text1 {
+  font-size: 14px;
+  font-weight: 700;
+  color: rgb(3, 52, 211);
 }
 
 .image-caption {
   font-size: 14px;
   font-weight: 500;
+  color: rgb(3, 52, 211);
 }
 
 .main-title {
   font-size: 40px;
   font-weight: 700;
+  color: rgb(3, 52, 211);
 }
 
 .subheader-text {
   font-size: 20px;
   font-weight: 700;
+  color: rgb(3, 52, 211);
 }
 
 .body-text {
   font-size: 16px;
   font-weight: 500;
+  color: rgb(3, 52, 211);
 }
 
 .project-card-text {
+  color: rgb(3, 52, 211);
   overflow: hidden;
   text-overflow: ellipsis;
   display: -webkit-box;
@@ -41,6 +54,7 @@ body {
 }
 
 .project-title {
+  color: rgb(3, 52, 211);
   overflow: hidden;
   text-overflow: ellipsis;
   display: -webkit-box;

@@ -3,8 +3,9 @@ body {
 }
 
 .nav-title {
+  font-family: "Futura";
   font-weight: 700;
-  font-size: 24px;
+  font-size: 26px;
   color: white;
 }
 
@@ -26,13 +27,23 @@ body {
   color: rgb(3, 52, 211);
 }
 
+.personal-caption {
+  font-family: "Futura", sans-serif;
+  font-style: italic; 
+  font-size: 14px;
+  font-weight: 500;
+  color: rgb(3, 52, 211);
+}
+
 .main-title {
+  font-family: "Futura";
   font-size: 40px;
   font-weight: 700;
   color: rgb(3, 52, 211);
 }
 
 .subheader-text {
+  font-family: "Futura";
   font-size: 20px;
   font-weight: 700;
   color: rgb(3, 52, 211);
@@ -54,6 +65,7 @@ body {
 }
 
 .project-title {
+  font-family: "Futura";
   color: rgb(3, 52, 211);
   overflow: hidden;
   text-overflow: ellipsis;

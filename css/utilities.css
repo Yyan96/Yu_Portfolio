@@ -86,9 +86,16 @@ a.button1 {
 a.button:hover {
   text-decoration: underline;
   text-decoration-thickness: 2px;
+  color: white;
   cursor: pointer;
 }
 
+a.button1:hover {
+  text-decoration: underline;
+  text-decoration-thickness: 2px;
+  color: rgb(3, 52, 211);
+  cursor: pointer;
+}
 
 /* Footer Styling */
 

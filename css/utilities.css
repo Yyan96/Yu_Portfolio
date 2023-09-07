@@ -29,7 +29,7 @@ a.icon-link:hover {
 .navbar {
   width: 100%;
   overflow: hidden;
-  background-color: rgb(3, 52, 211);
+  background-color: rgb(14, 60, 210);
   padding: 30px 50px;
   display: flex;
   justify-content: space-between;
@@ -89,7 +89,7 @@ a.icon-link:hover {
 @media only screen and (max-width: 800px) {
   .navbar {
     padding: 20px 20px;
-    background-color: rgb(3, 52, 211);
+    background-color: rgb(14, 60, 210);
   }
 }
 
@@ -100,7 +100,7 @@ a.button {
   padding: 8px 16px;
   border: 3px solid white;
   border-radius: 50px;
-  color: rgb(3, 52, 211);
+  color: rgb(14, 60, 210);
   text-decoration: none;
   width: fit-content;
   display: flex;
@@ -110,7 +110,7 @@ a.button {
 
 a.button1 {
   padding: 8px 16px;
-  border: 3px solid rgb(3, 52, 211);
+  border: 3px solid rgb(14, 60, 210);
   border-radius: 50px;
   color: rgb(3, 52, 211);
   text-decoration: none;
@@ -130,7 +130,7 @@ a.button:hover {
 a.button1:hover {
   text-decoration: underline;
   text-decoration-thickness: 2px;
-  color: rgb(3, 52, 211);
+  color: rgb(14, 60, 210);
   cursor: pointer;
 }
 
@@ -148,7 +148,7 @@ a.button1:hover {
 /* Link Styling */
 a.no-underline {
   text-decoration: none;
-  color: rgb(3, 52, 211)
+  color: rgb(14, 60, 210)
 }
 
 a.no-underline:hover {
